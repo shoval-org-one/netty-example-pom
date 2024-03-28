@@ -1,0 +1,57 @@
+repo_name: shoval-org-one/netty-example-pom
+report_id: e79a6d3b176e7984a38f3b10856553ba
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-28T13:02:43+00:00'
+requested_by: sschober
+provider: github
+branch: master
+detected_tools_count: 4
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/shoval-org-one/netty-example-pom
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/shoval-org-one/netty-example-pom
+  detection_source: Repo Metadata
+- name: JBoss
+  description: An open source Java EE-based application server
+  website_url: https://developers.redhat.com/products/eap
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/2188/unnamed.jpg
+  detection_source_url: https://github.com/shoval-org-one/netty-example-pom/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Sven Schober
+  last_updated_on: 2010-10-15 09:00:54.000000000 Z
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: 4.13.1
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/shoval-org-one/netty-example-pom/blob/master/pom.xml
+  detection_source: pom.xml
+  last_updated_by: Sven Schober
+  last_updated_on: 2010-10-15 09:00:54.000000000 Z
